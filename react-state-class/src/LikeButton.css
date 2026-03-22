@@ -1,0 +1,14 @@
+.likeBtn{
+margin: 300px;
+}
+
+button{
+  background-color: rgba(0, 0, 0, 0);
+  border-color: rgba(0, 0, 0, 0);
+  height:100px;
+  width: 100px;
+}
+
+button:active{
+   color: red;
+}

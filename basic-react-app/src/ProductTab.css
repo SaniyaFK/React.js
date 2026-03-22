@@ -1,0 +1,13 @@
+.ProductTab{
+  border: 0px double rgb(19, 174, 230);
+  padding: 4px;
+  /* background-color: rgb(196, 196, 88); */
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin-right: 0px;
+}
+
+.heading{
+  font-size: 20px;
+  color: black;
+}

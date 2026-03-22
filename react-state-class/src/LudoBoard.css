@@ -1,0 +1,11 @@
+.board{
+  margin: 200px;
+  border: 2px solid wheat;
+  padding: 10px;
+}
+
+button{
+  height: 40px;
+  width: 60px;
+  margin: 12px;
+}

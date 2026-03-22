@@ -1,0 +1,11 @@
+.cardTab{
+  display:inline-flex;
+  background-color: white;
+  color: black;
+}
+
+#heading{
+  background-color: white;
+  color: black;
+  margin: 0;
+}

@@ -1,0 +1,14 @@
+button{
+  height: 40px;
+  border-radius: 8px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 16px;
+  background-color: rgb(248, 165, 165);
+  color: black;
+  font-weight: bold;
+}
+
+.counter{
+  display: block;
+  margin: 300px;
+}

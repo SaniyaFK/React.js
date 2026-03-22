@@ -1,0 +1,14 @@
+.card{
+  height: 250px;
+  width: 150px;
+  background-color: rgb(85, 182, 246);
+  color: rgb(39, 35, 35);
+  border-radius: 5px;
+  margin: 5px;
+  text-align: center;
+}
+
+#price{
+  background-color: rgb(213, 175, 103);
+  width: 100px;
+  }
